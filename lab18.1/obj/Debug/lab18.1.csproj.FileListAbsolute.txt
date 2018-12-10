@@ -1,0 +1,7 @@
+C:\Users\Adam\source\repos\lab18.1\lab18.1\obj\Debug\lab18.1.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\lab18.1\lab18.1\obj\Debug\lab18.1.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\lab18.1\lab18.1\bin\Debug\lab18.1.exe.config
+C:\Users\Adam\source\repos\lab18.1\lab18.1\bin\Debug\lab18.1.exe
+C:\Users\Adam\source\repos\lab18.1\lab18.1\bin\Debug\lab18.1.pdb
+C:\Users\Adam\source\repos\lab18.1\lab18.1\obj\Debug\lab18.1.exe
+C:\Users\Adam\source\repos\lab18.1\lab18.1\obj\Debug\lab18.1.pdb
